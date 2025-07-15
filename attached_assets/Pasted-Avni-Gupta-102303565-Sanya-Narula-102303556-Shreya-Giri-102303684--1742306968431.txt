@@ -1,0 +1,39 @@
+Avni Gupta-102303565
+Sanya Narula-102303556
+Shreya Giri-102303684
+                                                              Zombie Apocalypse AI Game
+Introduction
+This project aims to create a survival-based Zombie Apocalypse game, where the player must navigate a dangerous world filled with AI-driven zombies. The zombies will use intelligent pathfinding and advanced AI mechanics such as horde behaviour, stealth detection, and adaptive AI to create a more immersive and challenging experience.
+Objectives
+1.	Understand the core mechanics of a survival game with AI-controlled enemies.
+2.	Develop AI algorithms that control zombie movement, decision-making, and group behaviour.
+3.	Explore different AI techniques such as pathfinding, state machines, and adaptive AI.
+Project Scope
+The project will involve developing the following key components:
+1.	Game World: A grid-based environment representing a post-apocalyptic city.
+2.	Player: A survivor who can move in four directions, scavenge for resources, and avoid zombies.
+3.	Zombies (AI Enemies): Enemies that use advanced AI techniques such as:
+o	Horde Behaviour: Zombies group together and dynamically track the player.
+o	Stealth Detection: Zombies respond to noise and vision, making stealth tactics possible.
+o	Adaptive AI: Zombies learn and adjust their behaviour based on the player’s actions.
+4.	Resources: Items such as food, weapons, and medicine to help the player survive.
+5.	Safe Zones & Traps: Areas where the player can rest or set up defenses against zombies.
+6.	Game Logic: Rules governing player survival, zombie behavior, and interaction with the environment.
+AI Techniques
+1.	Pathfinding: Use algorithms like A or Dijkstra’s* to allow zombies to find the shortest path to the player.
+2.	State Machines: Define different states for zombies (idle, searching, chasing, attacking) and transitions between them.
+3.	Decision Trees: Implement decision-making processes for zombies to change behaviour based on the player’s actions.
+4.	Zombie Horde Behaviour: Zombies move as a group toward the player, alerting others when they detect movement.
+5.	Stealth Mechanics: Zombies detect players based on sound, vision cones, and lighting conditions.
+6.	Adaptive AI: Zombies remember player movements, predict escape routes, and increase difficulty if the player survives too long.
+Tools and Technologies
+1.	Programming Language: Python
+2.	Libraries:
+o	Pygame (for game development)
+o	NumPy (for calculations and AI logic)
+o	Pathfinding libraries (for optimized AI movement)
+3.	Development Environment: Any code editor or IDE
+Conclusion
+By the end of this project, you will have a fully functional Zombie Apocalypse survival game featuring realistic AI-driven zombies that adapt to the player’s actions. This project will provide a deeper understanding of AI algorithms, stealth mechanics, and dynamic enemy behaviour, making it a valuable learning experience in game development and artificial intelligence.
+________________________________________
+
